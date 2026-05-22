@@ -18,8 +18,8 @@ Sebuah web katalog fashion wanita modern berbasis **React + Vite** yang terhubun
 
 ---
 
-## Demo Preview (opsional)
-Jika proyek ini dideploy, tuliskan URL demo di sini.
+## Demo Preview
+nieuza-wear-rho.vercel.app/
 
 ---
 
