@@ -1,7 +1,7 @@
-# Logs
-logs
-*.log
-npm-debug.log*
+.env*
+dist
+node_modules
+
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
@@ -24,4 +24,14 @@ dist-ssr
 *.sw?
 
 .vercel
+.agents
+.augment
+.bob
+.claude
+.codebuddy
+.commandcode
+.continue
+.cortex
+.kilocode
+.qwen
 .env*.local
